@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">RiyStory</string>
+    <string name="welcome_kit">Welcome To RIYSTORY</string>
+    <string name="welcome_des">Express Your Feeling In Here, Don\'t Be Shy To Tell All Of Your Story. Enjoy To Write Down Your Story</string>
+    <string name="for_register">Doesn\'t Have an Account? Click Register</string>
+    <string name="text_login">LOGIN</string>
+    <string name="email">Input Your Email</string>
+    <string name="password">Input Your Password</string>
+    <string name="for_register2">Doesn\'t Have Account?</string>
+    <string name="to_register">Click Here</string>
+    <string name="text_register">REGISTER</string>
+    <string name="name">Input Your Name</string>
+    <string name="for_login">Already Have Account?</string>
+    <string name="regis">Registration Successfully</string>
+    <string name="regis2">Your Account Is Ready</string>
+    <string name="regis3">Registration Failed</string>
+    <string name="regis4">Email Already Taken</string>
+    <string name="login">Login Successfully</string>
+    <string name="login2">Welcome Story Teller</string>
+    <string name="login3">Login Failed</string>
+    <string name="login4"><![CDATA[Check Your Email & Password]]></string>
+    <string name="logout">LOGOUT</string>
+    <string name="logout2">Are You Sure Want To Logout?</string>
+    <string name="time">Time Out</string>
+    <string name="Try">Try Again</string>
+    <string name="writer">Writer</string>
+    <string name="story">Story</string>
+    <string name="ini_text">Text</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="upload">Upload</string>
+    <string name="your_story">Your Story</string>
+    <string name="uploads">Upload Successfully</string>
+    <string name="uploads2">Upload Failed</string>
+    <string name="uploadt">Thank You For Sharing Your Story</string>
+    <string name="uploadt2">Please Check Your Data Again</string>
+    <string name="location">Location</string>
+    <string name="location_permission_denied">Location Denied</string>
+    <string name="location_permission_denied_action">Change Setting</string>
+    <string name="Language_btn">Change Language</string>
+
+</resources>
